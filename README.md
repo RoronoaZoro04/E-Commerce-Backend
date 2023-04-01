@@ -2,7 +2,7 @@
 
 Completed Backend for e commerce website in 7 days with NodeJs, Express.js and MongoDB
 
-This backened has fllowing functionalities....
+This backened has following functionalities....
 
 1. User login, logout, sign up, forgot password page
 2. Adding Products
