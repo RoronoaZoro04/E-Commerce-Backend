@@ -38,14 +38,12 @@ var blogSchema = new mongoose.Schema({
             ref:"User",
         },
     ],
-    image:{
-        type:String,
-        default:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScrznPDRn2EHMf1oYbzFHA4uhwYuT8RXvsEg&usqp=CAU",
-    },
+    
     author:{
         type:String,
         default:"Admin",
     },
+    images:[],
 },
     {
         toJSON:{
