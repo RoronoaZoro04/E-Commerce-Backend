@@ -11,4 +11,5 @@ This backened has following functionalities....
 5. Discount, coupons
 6. Wishlist
 7. Separate api for blog page
-8. etc. etc.
+8. changing colours
+9. etc. etc.
